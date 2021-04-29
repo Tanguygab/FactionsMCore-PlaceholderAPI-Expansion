@@ -1,0 +1,1 @@
+# FactionsMCore-PlaceholderAPI-Expansion
